@@ -1,4 +1,3 @@
-# react-native-network-info
 
 React Native library for easemob
 
