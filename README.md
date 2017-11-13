@@ -1,5 +1,7 @@
+# react-native-easemob
 
-React Native library for easemob
+额，我太懒了，关于加Appkey和初始化，以及IOS需要添加额外的一些包请查看官方文档（晚些可能能补上）
+http://docs.easemob.com/im/300iosclientintegration/140iosquickstart
 
 
 
